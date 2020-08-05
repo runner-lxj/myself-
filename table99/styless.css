@@ -1,0 +1,16 @@
+<style>
+            h1 {
+                font-size: 1.5rem;
+                text-align: center;
+            }
+            
+            table {
+                margin: 0 auto;
+            }
+
+            #root .cell {
+                width: 7em;
+                background-color: #ccc;
+                text-align: center;
+            }
+        </style>
